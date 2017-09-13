@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1> Where is the Love? </h1>
-<h2> by Black Eyed Peas </h2>
+<h1 style:"background-color=red;color=white"> Where is the Love? </h1>
+<h2 style:"background-color=red;color=white"> by Black Eyed Peas </h2>
 <hr>
 <pre>
 What's wrong with the world, mama 
@@ -38,6 +38,6 @@ Where is the love (The love)
 Where is the love 
 The love, the love <pre>
 <hr>
-<a href="https://youtu.be/WpYeekQkAdc"> This is a link </a>
+<a href="https://youtu.be/WpYeekQkAdc"> Click here to watch this on YouTube </a>
 </body>
 </html>
